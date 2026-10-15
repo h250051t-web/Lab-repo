@@ -1,0 +1,8 @@
+TYPE,ID,TITLE,AVAILABLE,EXTRA1,EXTRA2
+DVD,D201,Inception,true,Christopher Nolan,148
+BOOK,B103,Design Patterns,true,Gang of Four,978-0201633610
+BOOK,B104,Java: The Complete Reference,true,Herbert Schildt,978-1260440232
+BOOK,B101,Effective Java,false,Joshua Bloch,978-0134685991
+DVD,D203,Interstellar,true,Christopher Nolan,169
+BOOK,B102,Clean Code,true,Robert C. Martin,978-0132350884
+DVD,D202,The Matrix,false,Lana & Lilly Wachowski,136
